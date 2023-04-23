@@ -1,2 +1,2 @@
 # Cwiczenia-narzedzia-w-branzy-IT-
-Repo z labami
+Repo z labami, przeniesione z "Rozne" w ramach polecenia.
